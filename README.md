@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Student Management System
 
 A stylish ASP.NET Core MVC web app for managing student records — designed with a modern Olive Green & Black theme.
@@ -32,3 +33,6 @@ StudentManagementSystem/
 ├── wwwroot/
 ├── Program.cs
 └── README.md
+=======
+# Student-Management-System-Dotnet-Project
+>>>>>>> f345d789492751f3bd53ee6ddcdd730a8a281096
